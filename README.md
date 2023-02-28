@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 Hello ✋ , I'm Erinle Oluwatimilehin a Software Engineer based in Lagos, Nigeria.
 i build full stack web applications and mobile applications
 
-👩‍💻 I'm currently working on building mobile applications
+👩‍💻 I'm currently working on building APIS
 
-🧠 I'm currently learning kotlin (jetpack compose)
+🧠 I'm currently learning React js
 
 📫 send me a message at erinletimilehin33@gmail.com
 
