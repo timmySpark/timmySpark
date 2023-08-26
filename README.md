@@ -21,7 +21,7 @@ i build full stack web applications and mobile applications
 
 👩‍💻 I'm currently working on building APIS
 
-🧠 I'm currently learning React js
+🧠 I'm currently learning Node js
 
 📫 send me a message at erinletimilehin33@gmail.com
 
