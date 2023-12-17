@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-Hello ✋ , I'm Erinle Oluwatimilehin a Software Engineer based in Lagos, Nigeria.
+Hello ✋ , I'm Erinle Oluwatimilehin a Software Engineer based in Alberta, Canada.
 i build full stack web applications and mobile applications
 
 👩‍💻 I'm currently working on building APIS
