@@ -39,12 +39,6 @@ i build full stack web applications and mobile applications
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
  </div>
  
- ### :fire: My Stats :
- [![GitHub Streak](https://streak-stats.demolab.com?user=timmySpark&theme=react)](https://git.io/streak-stats)
- ![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmySpark&show_icons=true&theme=react)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmySpark&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
- 
 
 ## 🔗 Social media Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimilehin-erinle-2a241b1b0)
